@@ -1,0 +1,24 @@
+.Form {
+    display: flex;
+    justify-content: center;
+}
+
+.Form input {
+    border-radius: 5px;
+    width: 25%;
+    height: 45px;
+    font-size: 15px;
+    border: 2px solid rgba(0, 128, 6, 0.534);
+    padding-left: 20px;
+} 
+
+.Form button {
+    border-radius: 3px;
+    width: 60px;
+    height: 45px;
+    font-size: 15px;
+    border: none;
+    margin-left: 15px;
+    background: rgba(0, 128, 6, 0.534);
+    
+}

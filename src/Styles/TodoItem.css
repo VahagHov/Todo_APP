@@ -1,0 +1,21 @@
+.checked {
+    border-radius: 5px;
+    font-size: 20px;
+    border: 2px solid rgba(0, 128, 6, 0.534);
+    background-color: white;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+   
+}
+
+.checked label {
+    display: flex;
+    justify-content: space-between;
+}
+
+.checked button {
+    border: none;
+    
+}
